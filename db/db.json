@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/images.jfif"
+      },
+      "image": "src/assets/images (2).jfif",
+      "caption": "Beautiful sunset 🌆 #Nature",
+      "likes": 120,
+      "comments": [
+        { "user": "alice_wonder", "comment": "Wow! Amazing shot! 📸" },
+        { "user": "mark_92", "comment": "Where is this place?" }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "travel_guru",
+        "profile_pic": "src/assets/images (1).jfif"
+      },
+      "image": "src/assets/download.jfif",
+      "caption": "Exploring the mountains 🏔️",
+      "likes": 340,
+      "comments": [
+        { "user": "hiker_life", "comment": "This looks incredible 😍" },
+        { "user": "nature_love", "comment": "Which trail is this?" }
+      ],
+      "timestamp": "2025-02-10T09:45:00Z"
+    },
+
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "foodie_queen",
+        "profile_pic": "src/assets/images (3).jfif"
+      },
+      "image": "src/assets/images (4).jfif",
+      "caption": "Today's brunch was heavenly 😋🍳",
+      "likes": 560,
+      "comments": [
+        { "user": "chef_mario", "comment": "Looks delicious!" },
+        { "user": "anna_k", "comment": "Where did you get this?" }
+      ],
+      "timestamp": "2025-02-09T12:00:00Z"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
