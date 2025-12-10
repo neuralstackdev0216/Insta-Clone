@@ -50,6 +50,33 @@
       ],
       "timestamp": "2025-02-09T12:00:00Z"
     }
+  ],
+  "profile":{
+    "id": 101,
+    "username": "john_doe",
+    "profile_pic": "src/assets/images.jfif"
+  },
+  "suggestions":[
+    {
+      "id": 101,
+      "username": "john_doe",
+      "profile_pic": "src/assets/images.jfif"
+    },
+    {
+      "id": 102,
+      "username": "travel_guru",
+      "profile_pic": "src/assets/images (1).jfif"
+    },
+    {
+      "id": 103,
+      "username": "foodie",
+      "profile_pic": "src/assets/images (3).jfif"
+    },
+    {
+      "id": 103,
+      "username": "foodie_mania",
+      "profile_pic": "src/assets/images (3).jfif"
+    }
   ]
 }
 

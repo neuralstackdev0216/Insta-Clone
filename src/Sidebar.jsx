@@ -19,7 +19,7 @@ function sidebar() {
                 <div><i className="bi bi-threads"></i>Threads</div>
                 <div><i className="bi bi-list"></i>More</div>
             </div>
-    </div>
+        </div>
         </>
 
     )
