@@ -5,7 +5,7 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "src/assets/images.jfif"
+        "profile_pic": "src/assets/1600w-1u1wshkWxIM.webp"
       },
       "image": "src/assets/images (2).jfif",
       "caption": "Beautiful sunset 🌆 #Nature",
@@ -39,7 +39,7 @@
       "user": {
         "id": 103,
         "username": "foodie_mania",
-        "profile_pic": "src/assets/images (3).jfif"
+        "profile_pic": "src/assets/100a63c4edaf62de4ae42cccb93a64df.jpg"
       },
       "image": "src/assets/images (4).jfif",
       "caption": "Today's brunch was heavenly 😋🍳",
@@ -54,13 +54,13 @@
   "profile":{
     "id": 101,
     "username": "john_doe",
-    "profile_pic": "src/assets/images.jfif"
+    "profile_pic": "src/assets/1600w-1u1wshkWxIM.webp"
   },
   "suggestions":[
     {
       "id": 101,
       "username": "john_doe",
-      "profile_pic": "src/assets/images.jfif"
+      "profile_pic": "src/assets/1600w-1u1wshkWxIM.webp"
     },
     {
       "id": 102,
@@ -70,12 +70,45 @@
     {
       "id": 103,
       "username": "foodie",
-      "profile_pic": "src/assets/images (3).jfif"
+      "profile_pic": "src/assets/100a63c4edaf62de4ae42cccb93a64df.jpg"
     },
     {
       "id": 103,
       "username": "foodie_mania",
-      "profile_pic": "src/assets/images (3).jfif"
+      "profile_pic": "src/assets/100a63c4edaf62de4ae42cccb93a64df.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/1600w-1u1wshkWxIM.webp"
+      },
+      "image": "src/assets/images (2).jfif"
+      },
+
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "travel_guru",
+        "profile_pic": "src/assets/images (1).jfif"
+      },
+      "image": "src/assets/download.jfif"
+      
+    },
+
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "foodie_mania",
+        "profile_pic": "src/assets/100a63c4edaf62de4ae42cccb93a64df.jpg"
+      },
+      "image": "src/assets/images (4).jfif"
+      
     }
   ]
 }
